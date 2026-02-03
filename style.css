@@ -30,8 +30,9 @@ body {
   margin: 0;
   padding: 0;
 }
-img {
-  max-width: 100%;
+#about img {
+  width: 150px;
+  height: auto;
 }
 footer {
   text-align: center;
